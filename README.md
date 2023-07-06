@@ -4,7 +4,7 @@ ___
 Example notebooks for various domain-specific problems
 
 ## Authors
-[Rob Junod][https://github.com/rajunod]
+[Rob Junod](https://github.com/rajunod)
 
 ## Runing the Notebooks
 
