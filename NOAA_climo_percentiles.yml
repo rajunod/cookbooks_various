@@ -1,0 +1,11 @@
+name: NOAA_climo_percentiles
+channels:
+        - conda-forge
+dependencies:
+        - python >=3.10
+        - xarray
+        - cartopy
+        - jupyterlab
+        - fsspec
+        - aiohttp
+        - h5netcdf
