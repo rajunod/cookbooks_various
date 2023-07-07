@@ -23,10 +23,10 @@ If you are interested in running this material locally on your computer, you wil
    ``` bash
    git clone https://github.com/rajunod/cookbooks_various.git
    ```
-1. Move into the `cookbooks_various` directory
+1. Move into the `cookbooks_various` directory. Pick the the.yml that corresponds to the notebook of interest.
    ```bash
-   conda env create -f NOAA_ptiles.yml
-   conda activate NOAA_pitles
+   conda env create -f $NAME_OF_NOTEBOOK$.yml
+   conda activate $NAME_OF_NOTEBOOK$
    ```
 1. Start up JupyterLab
    ```bash
