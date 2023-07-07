@@ -23,7 +23,7 @@ If you are interested in running this material locally on your computer, you wil
    ``` bash
    git clone https://github.com/rajunod/cookbooks_various.git
    ```
-1. Move into the `cookbooks_various` directory. Pick the the.yml that corresponds to the notebook of interest.
+1. Move into the `cookbooks_various` directory. Pick the the.yml that corresponds to the notebook of interest. For example, `NOAA_climo_percentiles.yml` corresponds to the `NOAA_climo_percentiles.ipynb` notebook.
    ```bash
    conda env create -f $NAME_OF_NOTEBOOK$.yml
    conda activate $NAME_OF_NOTEBOOK$
